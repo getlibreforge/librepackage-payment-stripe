@@ -1,6 +1,6 @@
 {
   "name": "@libreforge/librepackage-payment-stripe",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,11 +19,10 @@
   "homepage": "https://github.com/getlibreforge/librepackage-payment-stripe#readme",
   "dependencies": {
     "react": "^18.2.0",
-    "@libreforge/libreforge-framework": "^1.0.8",
     "@stripe/stripe-js": "^2.2.2"
   },
   "devDependencies": {
-    "@stripe/stripe-js": "^2.2.2",
+    "@libreforge/libreforge-framework": "^1.0.9",    
     "@types/react": "^18.2.28",
     "typescript": "^5.2.2"
   },
