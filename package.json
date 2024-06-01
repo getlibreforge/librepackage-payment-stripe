@@ -1,6 +1,6 @@
 {
   "name": "@libreforge/librepackage-payment-stripe",
-  "version": "1.0.4",
+  "version": "1.0.15",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,7 +22,7 @@
     "@stripe/stripe-js": "^2.2.2"
   },
   "devDependencies": {
-    "@libreforge/libreforge-framework": "^1.0.9",    
+    "@libreforge/libreforge-framework": "^1.0.15",    
     "@types/react": "^18.2.28",
     "typescript": "^5.2.2"
   },
